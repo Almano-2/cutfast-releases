@@ -1,1 +1,6 @@
-{"schema": 1, "latest": "2.96.0", "minimum": "2.96.0", "notes": "Licence plans and the update system arrive in this version.", "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast.ccx"}
+{
+  "latest": "2.97.0",
+  "minimum": "2.97.0",
+  "url": "https://github.com/Almano-2/cutfast-releases/releases/download/v2.97.0/CutFast.ccx",
+  "notes": "Licence plans: two new Complete-tier products are recognised."
+}
