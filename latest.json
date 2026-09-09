@@ -1,7 +1,1 @@
-{
-  "schema": 1,
-  "latest": "2.91.0",
-  "minimum": "2.91.0",
-  "notes": "First live test of the update system.",
-  "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast.ccx"
-}
+{"schema": 1, "latest": "2.93.0", "minimum": "2.93.0", "notes": "Real-lock test: this version requirement is deliberate and temporary.", "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast.ccx"}
