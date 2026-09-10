@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.110.0",
-  "minimum": "2.110.0",
-  "notes": "The update screen now shows the ALM Media logo in the same red banner as the Home page. Run the installer, follow the pages, reopen Premiere.",
+  "latest": "2.111.0",
+  "minimum": "2.111.0",
+  "notes": "A reliability fix to the developer tools. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
