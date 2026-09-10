@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.98.0",
-  "minimum": "2.98.0",
-  "notes": "Small screens can scroll the Transcribe setup page, and the side rail hides empty category headings. This version is the required minimum.",
-  "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast.ccx"
+  "latest": "2.99.0",
+  "minimum": "2.99.0",
+  "notes": "Updates now install themselves. Press Yes when Windows asks, close Premiere, open it again.",
+  "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
