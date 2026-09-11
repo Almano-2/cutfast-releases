@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.122.0",
+  "latest": "2.123.0",
   "minimum": "2.118.0",
-  "notes": "FV Clipper learns silences: tick the new switch and each cut slides up to ten seconds early to land in a pause found from your transcript, never exceeding the length you set. Four detection methods with a Re-run button that tries the next one. And Make subclips now bottles every clip on the track in one press. Run the installer, follow the pages, reopen Premiere.",
+  "notes": "FV Clipper gains Batch export: select your subclips in the Project panel, pick a folder, and every one renders to its own file using your applied export settings, with the temporary sequences cleaned up automatically. Plus the silence cuts and whole-track subclips from 2.122.0. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
