@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.116.0",
-  "minimum": "2.116.0",
-  "notes": "Update checks now have a second home, so an outage at one host cannot stall them. Nothing else changes. Run the installer, follow the pages, reopen Premiere.",
+  "latest": "2.118.0",
+  "minimum": "2.118.0",
+  "notes": "The setup wizard no longer clips its own text, and Safe Zone Guides drops a box that only repeated what your timeline already showed. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
