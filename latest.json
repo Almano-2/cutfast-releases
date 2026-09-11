@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.142.0",
+  "latest": "2.143.0",
   "minimum": "2.131.0",
-  "notes": "FV Clipper: 0.2 and 0.3 second pause presets with 0.3 as the default, plainer buttons, plus the preview markers and GOD MODE from today. Run the installer, follow the pages, reopen Premiere.",
+  "notes": "FV Clipper: Export current sequence queues the whole timeline to Media Encoder in one press, wearing the live sequence length, beside Batch export in one pill. Plus everything from today. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
