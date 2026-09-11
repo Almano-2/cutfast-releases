@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.124.0",
+  "latest": "2.125.0",
   "minimum": "2.118.0",
-  "notes": "FV Clipper polish: subclips file into their own bin named after the sequence, every button explains itself on hover, shorter clearer text, and pressing Refresh the plan is always visible. Plus batch export, silence cuts and whole-track subclips from the last releases. Run the installer, follow the pages, reopen Premiere.",
+  "notes": "Batch export fixed after its first live refusal: each call now tries two forms and logs which worked. Plus the splits bin, hover hints, silence cuts and whole-track subclips from today. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
