@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.118.0",
+  "latest": "2.119.0",
   "minimum": "2.118.0",
-  "notes": "The setup wizard no longer clips its own text, and Safe Zone Guides drops a box that only repeated what your timeline already showed. Run the installer, follow the pages, reopen Premiere.",
+  "notes": "FV Clipper: type how many seconds each cut should be, default 29, and one press turns a long clip on your timeline into a run of short ones, none of them longer than the length you set. A second press puts the same cuts in your Project panel as subclips named after the sequence and numbered in order, ready to select and export as a batch. Nothing is rendered and nothing is deleted. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
