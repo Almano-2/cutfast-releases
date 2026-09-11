@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.123.0",
+  "latest": "2.124.0",
   "minimum": "2.118.0",
-  "notes": "FV Clipper gains Batch export: select your subclips in the Project panel, pick a folder, and every one renders to its own file using your applied export settings, with the temporary sequences cleaned up automatically. Plus the silence cuts and whole-track subclips from 2.122.0. Run the installer, follow the pages, reopen Premiere.",
+  "notes": "FV Clipper polish: subclips file into their own bin named after the sequence, every button explains itself on hover, shorter clearer text, and pressing Refresh the plan is always visible. Plus batch export, silence cuts and whole-track subclips from the last releases. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
