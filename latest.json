@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.112.0",
-  "minimum": "2.112.0",
-  "notes": "The licence box shows your key again, still hidden behind stars. Run the installer, follow the pages, reopen Premiere.",
+  "latest": "2.115.0",
+  "minimum": "2.115.0",
+  "notes": "Sturdier transcription that checks its own audio before trusting it, honest failure messages instead of buttons that claim success, clearer progress numbers, and reliability fixes across every feature. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
