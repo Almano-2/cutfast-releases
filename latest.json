@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.134.0",
+  "latest": "2.135.0",
   "minimum": "2.131.0",
-  "notes": "The subclips bin fills for real now: the plugin was searching through a stale picture of the project, so the bin it had just made looked missing. Plus the Media Encoder export ladder from 2.133.0. Run the installer, follow the pages, reopen Premiere.",
+  "notes": "Batch export renders through Media Encoder with a preset you pick once, instead of glitching the Export tab open, and the subclips bin is found reliably. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
