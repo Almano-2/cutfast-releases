@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.188.0",
-  "minimum": "2.188.0",
-  "notes": "Prompt Library workflow 2: Copy folds the card down and turns it green so you can track what you already submitted, the timecode names where each B-Roll starts and ends, a Restart workflow 2 button starts the session over, and long prompts copy with a warning instead of being refused. Run the installer, follow the pages, reopen Premiere.",
+  "latest": "2.189.0",
+  "minimum": "2.189.0",
+  "notes": "Open panels now hear about a mandatory update within about a minute, plus the workflow 2 card upgrades from 2.188.0: green Copied cards, start-to-end timecodes, Restart workflow 2, and long prompts copy with a warning. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
