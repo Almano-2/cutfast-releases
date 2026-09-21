@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.215.0",
-  "minimum": "2.215.0",
-  "notes": "Everything the plugin saves next to your project now lands in one Cut Fast folder, Swap Engine keeps each sent file until its render is safely back, and the Legal page gains the Higgsfield notices. Run the installer, follow the pages, reopen Premiere.",
+  "latest": "2.217.0",
+  "minimum": "2.217.0",
+  "notes": "Swap Engine lists each selected clip once instead of doubling it, and the cost card shows your balance and what a job leaves once the account has been checked. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
