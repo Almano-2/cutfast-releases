@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.218.0",
-  "minimum": "2.218.0",
-  "notes": "The AI features transcribe for themselves now: pick Auto, pick the language, press run, and the plugin transcribes the timeline as it is right now before the feature starts. No feature waits for a transcript any more. Run the installer, follow the pages, reopen Premiere.",
+  "latest": "2.219.0",
+  "minimum": "2.219.0",
+  "notes": "The working bar appears the moment you press run, with the transcription as step 1. A B-Roll run keeps every block you paid for, and the guide and changelog boxes end where their content ends. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
