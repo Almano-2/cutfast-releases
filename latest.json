@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.221.0",
-  "minimum": "2.221.0",
-  "notes": "Pick the Swap Engine's pipeline on the HIGGSFIELD tab: the CLI, the default on every launch, or the official Higgsfield API with your own key pair. The API side says plainly what the API can and cannot do yet. Run the installer, follow the pages, reopen Premiere.",
+  "latest": "2.222.0",
+  "minimum": "2.222.0",
+  "notes": "The Official API card now shows your remaining credits live, and Test connection quotes a real sample cost from Higgsfield's estimate endpoint. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
