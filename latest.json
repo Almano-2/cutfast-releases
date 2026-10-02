@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.229.0",
-  "minimum": "2.229.0",
-  "notes": "Every paid plan now includes CutFast AI credits, so the AI features run without an Anthropic key of your own; Settings, AI source, switches to your own key at any time. Run the installer, follow the pages, reopen Premiere.",
+  "latest": "2.231.0",
+  "minimum": "2.231.0",
+  "notes": "Behind-the-scenes improvements; nothing changes in how you use CutFast. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
