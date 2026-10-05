@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "latest": "2.253.0",
-  "minimum": "2.253.0",
-  "notes": "One look across every page: the same header, usage bar, chips and tabs, and a Guide on Safe Zone Guides, Audio Mastering, Notes and Checklist. Run the installer, follow the pages, reopen Premiere.",
+  "latest": "2.254.0",
+  "minimum": "2.254.0",
+  "notes": "Every page now opens the same way: one bar at the top, the title at the same height and width on every page. Run the installer, follow the pages, reopen Premiere.",
   "url": "https://github.com/Almano-2/cutfast-releases/releases/latest/download/CutFast-Setup.exe"
 }
